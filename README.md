@@ -1,7 +1,8 @@
 # staryi-bog-zapiataia
 
-requeremnts:
+### requeremnts:
 
 pip install pynput
+
 
 Works only on Windows
