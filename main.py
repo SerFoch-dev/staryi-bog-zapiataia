@@ -3,7 +3,7 @@ import winsound
 import os
 
 SOUNDS = {
-    ',': 'sounds/comma.wav',
+    ',': 'sounds/comma.wav'
 }
 
 def on_press(key):
